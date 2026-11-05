@@ -1,0 +1,20 @@
+# Build results
+bin/
+obj/
+out/
+
+# .NET
+*.user
+.vs/
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
